@@ -1,0 +1,5 @@
+<i>hello</i>
+<?php
+$v=99;
+echo "v is $v";
+?>

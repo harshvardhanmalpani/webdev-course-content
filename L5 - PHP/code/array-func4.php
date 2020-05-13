@@ -1,0 +1,13 @@
+<?php
+$a=array(5=>"test0",
+3=>"test4",
+"tt"=>"test3",
+'e'=>"test88",
+"test34",
+'b'=>"test9",
+'n'=>"test100",
+'r'=>"test010",
+'22'=>"test10");
+krsort($a);
+    print_r($a);
+?>
